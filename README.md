@@ -5,3 +5,5 @@ Additionally it describes some of the projects I have worked on and provides lin
 
 
 This page is hosted by Github.
+Feel free to check it out at the link shown below!
+https://cchandel-dev.github.io/ChandanTheDeveloper.com/
